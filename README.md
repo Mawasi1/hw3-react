@@ -11,5 +11,5 @@ npm run dev
 https://www.figma.com/file/FTXd743kouQNN96OlTjrCI/Untitled?type=design&node-id=0%3A1&mode=design&t=hLclVgThmm6UhxHR-1
 
 ### notes:
-- the backend is the same as the last HW.
+- the backend is the same as the last HW. + CORS
 - First time fetching from the server might take a while (1 min. approx.)
